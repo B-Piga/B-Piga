@@ -2,10 +2,10 @@
 
 ## Atualmente trabalho como desenvolvedor em Pascal, utilizando a IDE Delphi, trabalhando na construção de Sistemas ERP, PDV e de Gestão Empresarial na empresa BVX - Tecnologia
 
-###Procuro sempre estudar coisas novas, adquirir conhecimento e buscá-lo é o que me move nessa vida. Até porque eu quero ser o 'véio da lancha'.
+Procuro sempre estudar coisas novas, adquirir conhecimento e buscá-lo é o que me move nessa vida. Até porque eu quero ser o 'véio da lancha'.
 
 ![Piga's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-ct&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-ct)](https://github.com/B-ct/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-ct&layout=compact)](https://github.com/B-ct/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Piga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
