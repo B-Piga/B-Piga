@@ -7,6 +7,13 @@ Procuro sempre estudar coisas novas, adquirir conhecimento e buscá-lo é o que 
 ![Piga's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-ct&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-ct&layout=compact)](https://github.com/B-ct/github-readme-stats)
 
+<a href="https://github.com/B-ct/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=B-ct&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/B-ct/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=B-ct&repo=convoychat" />
+</a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Piga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Piga-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
