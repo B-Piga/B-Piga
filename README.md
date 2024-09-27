@@ -1,6 +1,6 @@
 # Olá! Sou o Piga!
 
-## Atualmente trabalho como desenvolvedor em Pascal, utilizando a IDE Delphi, trabalhando na construção de Sistemas ERP, PDV e de Gestão Empresarial na empresa BVX - Tecnologia
+## Atualmente trabalho como desenvolvedor em Pascal, utilizando a IDE Delphi, trabalhando na construção de Sistemas ERP, PDV e de Gestão Empresarial.
 
 Procuro sempre estudar coisas novas, adquirir conhecimento e buscá-lo é o que me move nessa vida. Até porque eu quero ser o 'véio da lancha'.
 
