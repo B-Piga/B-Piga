@@ -41,7 +41,7 @@ Estudar coisas novas é o que me move — até porque o objetivo final é virar 
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [**Sistema de Gestão (TCC)**](https://github.com/B-Piga/Sistema-de-Gest-o---TCC) | ERP para controle financeiro e gestão de atividades, voltado a profissionais autônomos | Delphi · Firebird |
+| [**Sistema de Gestão (TCC)**](https://github.com/B-Piga/Sistema-de-Gestao-TCC) | ERP para controle financeiro e gestão de atividades, voltado a profissionais autônomos | Delphi · Firebird |
 | [**HttpRequest**](https://github.com/B-Piga/HttpRequest) | Consumo da API do Bling em Pascal POO para obter vendas de marketplaces | Delphi · REST |
 | [**Upgrade4Delphi**](https://github.com/B-Piga/Upgrade4Delphi) | Componente de atualização automática de sistemas Delphi | Delphi · Boss |
 | [**MigraFB**](https://github.com/B-Piga/MigraFB) | Migração de bancos Firebird entre as versões 2.1 e 5.0 | Delphi · Firebird |
